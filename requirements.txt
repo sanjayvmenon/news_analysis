@@ -1,0 +1,10 @@
+requests
+lxml
+beautifulsoup4
+vaderSentiment
+gtts
+googletrans==4.0.0-rc1
+spacy
+streamlit
+flask
+flask-cors
