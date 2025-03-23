@@ -23,12 +23,12 @@ This project analyzes the sentiment of news articles related to a company. Users
 
 3. **Run the Flask API:**
    ```sh
-   python api.py
+   python app.py
    ```
 
 4. **Run the Streamlit frontend:**
    ```sh
-   streamlit run app.py
+   streamlit run web.py
    ```
 
 ## How It Works
