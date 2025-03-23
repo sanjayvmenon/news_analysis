@@ -19,6 +19,7 @@ This project analyzes the sentiment of news articles related to a company. Users
 2. **Install dependencies:**
    ```sh
    pip install -r requirements.txt
+   python -m spacy download en_core_web_sm
    ```
 
 3. **Run the Flask API:**
