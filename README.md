@@ -12,7 +12,7 @@ This project analyzes the sentiment of news articles related to a company. Users
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/news-sentiment-analysis.git
+   git clone https://github.com/sanjayvmenon/news_analysis.git
    cd news-sentiment-analysis
    ```
 
